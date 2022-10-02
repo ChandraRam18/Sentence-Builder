@@ -1,0 +1,17 @@
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\bin\Debug\net6.0-windows\Sentence Builder.exe
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\bin\Debug\net6.0-windows\Sentence Builder.deps.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\bin\Debug\net6.0-windows\Sentence Builder.runtimeconfig.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\bin\Debug\net6.0-windows\Sentence Builder.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\bin\Debug\net6.0-windows\Sentence Builder.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.csproj.AssemblyReference.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence_Builder.Form1.resources
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.csproj.GenerateResource.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.AssemblyInfoInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.AssemblyInfo.cs
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.csproj.CoreCompileInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\refint\Sentence Builder.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\Sentence Builder.genruntimeconfig.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Sentence Builder\Sentence Builder\obj\Debug\net6.0-windows\ref\Sentence Builder.dll
